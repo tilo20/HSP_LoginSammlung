@@ -1,2 +1,2 @@
 # HSP_LoginSammlung
-Fügen Sie in dieses Repository Ihre GitHub Logins ein.
+Fügen Sie in die Datei "LoginSammlung" Ihre GitHub Logins ein.
